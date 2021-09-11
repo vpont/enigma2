@@ -2,7 +2,7 @@
 
 ## Build status
 
-[![Build status](https://travis-ci.org/openatv/enigma2.svg?branch=7.0)](https://travis-ci.org/openatv/enigma2) [![enigma2 build](https://github.com/openatv/enigma2/actions/workflows/enigma2.yml/badge.svg)](https://github.com/openatv/enigma2/actions/workflows/enigma2.yml) [![Translation status](https://hosted.weblate.org/widgets/openatv/-/enigma2-7-0-po/svg-badge.svg)](https://hosted.weblate.org/engage/openatv/)
+[![Build status](https://travis-ci.org/openatv/enigma2.svg?branch=7.0)](https://travis-ci.org/openatv/enigma2) [![enigma2 build](https://github.com/openatv/enigma2/actions/workflows/enigma2.yml/badge.svg)](https://github.com/openatv/enigma2/actions/workflows/enigma2.yml)
 
 ## Translation status
 
